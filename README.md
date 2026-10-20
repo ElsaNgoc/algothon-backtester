@@ -1,5 +1,7 @@
 # Algothon Backtester
 
+> **Note:** This is a fork of [sxndyx/algothon-backtester](https://github.com/sxndyx/algothon-backtester), kept for reference while developing our team's Algothon 2026 strategy ([ElsaNgoc/algothon26-starter-code](https://github.com/ElsaNgoc/algothon26-starter-code)). All credit for the backtester and dashboard goes to the original authors.
+
 This repository contains a deterministic backtester and visualiser data engine
 for the UNSW x Susquehanna International Group Algothon.
 
